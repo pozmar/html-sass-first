@@ -1,0 +1,24 @@
+$color: rgb(5, 5, 82);
+$background-color: rgb(236, 234, 234);
+$font-family: sans serif;
+$text-align:center;
+$padding: 20px;
+$border-radius: 10px;
+$border:1px solid black;
+$font-style: italic;
+h1, button{
+    color: $color;
+}
+body{
+    background-color: $background-color;
+    text-align: $text-align;
+    font-family: $font-family;
+}
+button{
+    padding: $padding;
+    border-radius: $border-radius;
+    border: $border;
+}
+p{
+    font-style: $font-style;
+}

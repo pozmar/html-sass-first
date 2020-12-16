@@ -1,0 +1,21 @@
+h1,
+button {
+  color: #050552;
+}
+
+body {
+  background-color: #eceaea;
+  text-align: center;
+  font-family: sans serif;
+}
+
+button {
+  padding: 20px;
+  border-radius: 10px;
+  border: 1px solid black;
+}
+
+p {
+  font-style: italic;
+}
+
